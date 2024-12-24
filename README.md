@@ -1,5 +1,3 @@
-://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-
 # 👋 Hello World, I'm [Your Name]!
 
 I'm a passionate **Software Engineer** who loves creating innovative solutions. Currently, I am working on building **[Your Project or Company Name]** and contributing to various open-source projects. In addition to software engineering, I enjoy writing and sharing my knowledge with the community.
@@ -24,7 +22,7 @@ Previously, I helped lead and build **DevRel/DX** at **[Your Previous Company]**
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true)
 
 ## 🛠️ Languages and Tools I Use
 
@@ -52,16 +50,17 @@ Previously, I helped lead and build **DevRel/DX** at **[Your Previous Company]**
 - **Lines of Code Changed**: 3,351,164
 - **Repositories with Contributions**: 471
 
+### 🗣️ Languages Used (By File Size)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=6&layout=compact)
+
 ## 🎓 How to Level Up from Junior to Senior Developer
 
 If you're looking to grow from a junior to a senior developer, feel free to read my book: **[Your Book Title]**. It's full of tips, practices, and insights that I believe will help you grow in your career.
 
 ## 👨‍💻 Let's Connect!
 
-Feel free to reach out to me via [Email](mailto:your-email@example.com) or follow me on social media. I’m always open to collaborate on new and exciting projects.
+Feel free to reach out to me via [Email](mailto:your-email@example.com) or follow me on social media. I’m always open to collaborating on new and exciting projects.
 
 ---
 
 Made with ❤️ by [Your Name]
-
-
