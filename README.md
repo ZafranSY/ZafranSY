@@ -33,7 +33,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-green?style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-red?style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Go-orange?style=for-the-badge" alt="Go" />
+  <img src="https://img.shields.io/badge/-python-yellow?style=for-the-badge" alt="python" />
+  <img src="https://img.shields.io/badge/-perl-orange?style=for-the-badge" alt="perl" />
 </div>
 
 <br/>
