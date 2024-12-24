@@ -36,7 +36,9 @@
   <img src="https://img.shields.io/badge/-python-yellow?style=for-the-badge" alt="python" />
   <img src="https://img.shields.io/badge/-perl-orange?style=for-the-badge" alt="perl" />
 </div>
-
+<div>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zafransy&show_icons=true&theme=gotham" alt="zafransy" />
+</div>
 <br/>
 
 <!-- Footer Section -->
