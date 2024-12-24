@@ -3,8 +3,6 @@
   <h1>Just Zafran</h1>
 </div>
 
-<br/>
-
 <h4 style="text-align: center; font-weight: 500;">Software Engineer, developing observability and distributed system solutions at scale.</h4>
 
 <br/>
