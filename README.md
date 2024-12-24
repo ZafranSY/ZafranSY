@@ -46,6 +46,7 @@
   <h4>Contact Me</h4>
   <p>Feel free to reach out to me if you're interested in collaborating or want to talk tech!</p>
   <a href="mailto:zafranzafran0234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zafranzafran0234@gmail.com?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-zafranzafran0234@gmail.com?style=for-the-badge&logo=gmail" alt="Email" />
+</a>
+
 </div>
