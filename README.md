@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div style="text-align: center;">
-  <h1>Just Zafran</h1>
+  <h1>Zafran</h1>
 </div>
 
 <h4 style="text-align: center; font-weight: 500;">Software Engineering Student, developing observability and distributed system solutions at scale.</h4>
