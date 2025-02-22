@@ -3,7 +3,7 @@
   <h1>Just Zafran</h1>
 </div>
 
-<h4 style="text-align: center; font-weight: 500;">Software Engineer, developing observability and distributed system solutions at scale.</h4>
+<h4 style="text-align: center; font-weight: 500;">Software Engineering Student, developing observability and distributed system solutions at scale.</h4>
 
 <br/>
 
@@ -18,8 +18,6 @@
 <br/>
 
 <!-- About Section -->
-
-
 <!-- Tech Stack Section -->
 <h3 style="text-align: center; font-weight: 600;">Tech Stack</h3>
 <div style="text-align: center;">
