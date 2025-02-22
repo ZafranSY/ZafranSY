@@ -18,12 +18,7 @@
 <br/>
 
 <!-- About Section -->
-<h3 style="text-align: center; font-weight: 600;">About Me</h3>
-<p style="text-align: center;">
-  I'm a passionate Software Engineer focused on developing scalable observability and distributed systems. With a strong background in building high-performance systems and ensuring reliability at scale, I enjoy tackling complex challenges and designing innovative solutions.
-</p>
 
-<br/>
 
 <!-- Tech Stack Section -->
 <h3 style="text-align: center; font-weight: 600;">Tech Stack</h3>
