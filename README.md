@@ -36,8 +36,8 @@
 <br/>
 <div>
   <p>
-![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=ZafranSY&theme=radical&count_private=true)
-
+![Most Used Languages]
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZafranSY&theme=radical&count_private=true"/>
   </p>
 </div>
 
