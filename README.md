@@ -36,7 +36,8 @@
 <br/>
 <div>
   <p>
-    <img src="https://camo.githubusercontent.com/91c1561b42a79965cbc2d469812ddeb02220db231df3de45dd37239bf9c3f0bc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d66617268616e2d68656c6d7926636f756e745f707269766174653d74727565267468656d653d7261646963616c"/>
+![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=ZafranSY&theme=radical&count_private=true)
+
   </p>
 </div>
 
