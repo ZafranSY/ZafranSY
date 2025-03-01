@@ -31,17 +31,22 @@
 </div>
 <br/>
 <div>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zafransy&show_icons=true&theme=gotham" alt="zafransy" />
+  <!--<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zafransy&show_icons=true&theme=gotham" alt="zafransy" /> -->
+  <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ZafranSY&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000"/></p>
 </div>
 <br/>
 <div>
   
   <p>
-
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZafranSY&theme=radical&count_private=true"/>
   </p>
 </div>
-
+<br/>
+<div>
+  <!--<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zafransy&show_icons=true&theme=gotham" alt="zafransy" /> -->
+  <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZafranSY&count_private=true&theme=radical"/></p>
+</div>
+<br/>
 <!-- Footer Section -->
 <div style="text-align: center;">
   <h4>Contact Me</h4>
