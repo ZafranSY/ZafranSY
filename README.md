@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/zafran-sakowi-065b34215/" target="_blank" style="margin-right: 0.5rem;">
     <img src="https://img.shields.io/badge/LinkedIn-zafranSY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://vercel.com/zafranzafran0234-gmailcoms-projects/portfolio-htu1" target="_blank">
+  <a href="https://portfolio-htu1.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
