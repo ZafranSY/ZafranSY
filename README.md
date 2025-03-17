@@ -84,6 +84,11 @@ Building scalable systems and distributed solutions with a focus on performance 
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZafranSY&theme=tokyonight" />
   </a>
 </div>
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZafranSY&theme=tokyonight" alt="GitHub Activity Graph" />
+  
+</div>
 
 ## 🔍 Featured Projects
 
