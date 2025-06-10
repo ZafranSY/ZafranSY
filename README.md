@@ -73,22 +73,21 @@ Building scalable systems and distributed solutions with a focus on performance 
 
 <div align="center">
   <a href="https://github.com/ZafranSY">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZafranSY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZafranSY&layout=compact&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZafranSY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZafranSY&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ZafranSY">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZafranSY&theme=tokyonight" />
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZafranSY&theme=tokyonight" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZafranSY&layout=compact&theme=tokyonight&hide_border=true" />
 
   </a>
 </div>
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZafranSY&theme=tokyonight" alt="GitHub Activity Graph" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZafranSY&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 ## 🔍 Featured Projects
