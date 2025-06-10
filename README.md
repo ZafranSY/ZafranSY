@@ -74,7 +74,7 @@ Building scalable systems and distributed solutions with a focus on performance 
 <div align="center">
   <a href="https://github.com/ZafranSY">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZafranSY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZafranSY&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width="49%"  src="https://github-readme-streak-stats.herokuapp.com?user=ZafranSY&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
   </a>
 </div>
 
