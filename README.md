@@ -7,7 +7,7 @@
 > Software Engineering Student | Full-Stack Developer | System Architecture Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/zafran-sakowi-065b34215/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22c55e?style=flat&logo=vercel)](https://portfolio-htu1.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22c55e?style=flat&logo=vercel)](https://zafran-sakowi.my/)
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat&logo=gmail)](mailto:zafranzafran0234@gmail.com)
 
 ## About Me
